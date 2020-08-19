@@ -1,0 +1,22 @@
+* How to install (Comands):
+
+ $ mkdir -p ${HOME}/.config/autokey/
+ $ rm -rf ${HOME}/.config/autokey/mspeed-layer-ck6x*
+ $ tar zxvf mspeed-layer-ck6x-[LAYOUT].tar.gz -C ${HOME}/.config/autokey/
+ $ autokey
+
+* Available Layouts:
+
+ - mspeed-layer-ck6x-US.tar.gz (for ANSI US Layout QWERTY).
+ - mspeed-layer-ck6x-ES.tar.gz (for ISO Spanish Layout QWERTY).
+ - mspeed-layer-ck6x-IT.tar.gz (for ISO Italian Layout QWERTY)
+ - mspeed-layer-ck6x-FR.tar.gz (for ISO French Layout AZERTY).
+ - mspeed-layer-ck6x-DE.tar.gz (for ISO German Layout QWERTZ).
+
+* Dependencies:
+
+ - autokey
+ - python3
+ - X11
+
+
