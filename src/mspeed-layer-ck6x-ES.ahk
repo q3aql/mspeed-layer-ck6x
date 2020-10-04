@@ -84,10 +84,6 @@ return
 Send, \
 return
 ;
-<^>!+::
-Send, ~
-return
-;
 <^>!*Escape::
 Send, \
 return
