@@ -11,7 +11,7 @@ For Windows, you just have to follow the following steps for installation and us
 
 * **Installation and Use:**
   
-  * Download the package [mspeed-layer-ck6x-1.0.zip](https://github.com/q3aql/mspeed-layer-ck6x/releases/download/v1.0/mspeed-layer-ck6x-1.0.zip).
+  * Download the package [mspeed-layer-ck6x-1.1.zip](https://github.com/q3aql/mspeed-layer-ck6x/releases/download/v1.1/mspeed-layer-ck6x-1.1.zip).
   * Unzip the package.
   * Enter to folder of your architecture (`build_x86` for Windows 32-bits and `build_x86_64` for Windows 64 bits).
   * Run the executable of your keyboard configuration.
@@ -38,7 +38,7 @@ Key configurations of diferents layouts:
 
 * **Installation and Use:**
   
-  * Download the package [mspeed-layer-ck6x-1.0.zip](https://github.com/q3aql/mspeed-layer-ck6x/releases/download/v1.0/mspeed-layer-ck6x-1.0.zip).
+  * Download the package [mspeed-layer-ck6x-1.1.zip](https://github.com/q3aql/mspeed-layer-ck6x/releases/download/v1.1/mspeed-layer-ck6x-1.1.zip).
   * Unzip the package.
   * Open terminal within `src-linux` and apply the following commands:
     * `mkdir -p ${HOME}/.config/autokey/`
