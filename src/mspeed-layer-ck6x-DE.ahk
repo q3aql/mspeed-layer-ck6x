@@ -6,7 +6,7 @@
 ; # Contact: q3aql@protonmail.ch                         #
 ; # License: GPL v2.0                                    #
 ; ########################################################
-; Version v1.0
+; Version v1.1
 ;
 ; Mapper to use arrows, F1-F12 and other keys using CapsLock
 ; as FN function.
